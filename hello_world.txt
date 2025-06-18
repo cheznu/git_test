@@ -1,0 +1,4 @@
+Hello World , today we are learning the basics of git!!!
+
+This is actually pretty cool and would've been useful to know 
+    when I took that class last semester
